@@ -1,0 +1,8 @@
+#ignore all compiled bin files
+/bin/
+
+#ignore default project file 
+/.project
+
+#ignore Class path file
+/.classpath
